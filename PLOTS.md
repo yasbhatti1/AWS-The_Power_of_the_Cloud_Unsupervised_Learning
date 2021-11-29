@@ -1,4 +1,4 @@
-# unit13-challenge
+# The Power of the Cloud and Unsupervised Learning using AWS
 
 Some of the charts didn't render on github. Here are the images of the aforementioned charts.
 
