@@ -32,7 +32,7 @@ ACOIN,ACoin,SHA-256,True,PoW,0,1600000
 AERO,Aero Coin,X13,True,PoS,0,7000000
 ALF,AlphaCoin,Scrypt,True,PoW,,210182000
 AGS,Aegis,X13,True,PoS,,0
-AMC,AmericanCoin,Scrypt,True,PoW,,168000000
+AMC,AmericanCoin,Scrypt,True,POW,,168000000
 ALN,AlienCoin,Scrypt,True,PoW,,200000000
 APEX,ApexCoin,X13,True,PoW/PoS,0,6000000
 ARCH,ArchCoin,Scrypt,True,PoS,0,16403135
