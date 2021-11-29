@@ -13,4 +13,4 @@ I will accomplish the following main tasks:
 * **[Clustering Cryptocurrencies Using K-Means](#Clustering-Cryptocurrencies-Using-K-Means):** Predict clusters using the cryptocurrencies data using the `KMeans` algorithm from `sklearn`.
 
 * **[Visualizing Results](#Visualizing-Results):** Create some plots and data tables to present your results.
-* **[Deploying Notebook](#Deploying_Notebook-Amazon_Sagemaker):** Deploy your notebook to Amazon SageMaker.
+* **[Deploying Notebook](#Deploying_Notebook-Amazon_Sagemaker):** Deploy notebook to Amazon SageMaker.
